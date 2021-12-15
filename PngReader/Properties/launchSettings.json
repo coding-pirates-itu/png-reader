@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PngReader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\mniki\\Downloads\\mixxx-keys.png"
+    }
+  }
+}
